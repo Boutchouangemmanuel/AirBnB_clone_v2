@@ -11,8 +11,3 @@ deploy in the coming month:
 * Complete integration of a RESTful API
 * Full configuration of website with domain name
 * Serving of dynamic content using JavaScript
-
-## Authors
-
-  [Vianney Yovo](https://github.com/vianneyyovo)    
-  [God'sfavour Idowu-Agida](https://github.com/DudeGFA)
